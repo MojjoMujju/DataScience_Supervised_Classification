@@ -1,5 +1,5 @@
 # DataScience_Supervised_Classification
-Repositori ini berisik terkait Supervised Learning (classification), yang akan dibagi menjadi 3 bagian.
+Repositori ini berisi terkait Supervised Learning (classification), yang akan dibagi menjadi 3 bagian.
 
 ## Supervised 1: Classification (KNN, Decision Tree, dan Random Forest)
 untuk dataset yang digunakan pada supervised bagian 1 yakni terkait Titanic_dataset:
